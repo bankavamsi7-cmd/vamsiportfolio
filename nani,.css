@@ -1,0 +1,82 @@
+
+   header{
+   background-color: blue;
+   color: white;
+   height: 400px;  
+   align-items: center;
+   text-align: center;
+   padding-top: 15vw;
+   }
+   
+button{
+      border-radius: 10px;
+      height: 40px;
+      width: 140px;
+      border: none;
+      cursor: pointer;
+      
+}
+
+button:hover{
+    background-color: darkblue;
+}
+
+img{
+     height: 500px;
+     width: 500px;
+    text-align: center;
+    margin-left: 350px;
+   border-radius: 250px;
+}
+
+figcaption{
+
+   text-align: center;
+}
+div{
+   
+   color: red;
+   text-align: center;
+   
+
+}
+
+p{
+text-align: center;
+color: black;
+
+
+}
+h1{
+   text-align: center;
+   color: red;
+   
+}
+
+nav{
+     text-align: center;
+     color: blue;
+   }
+   table{
+          width:10vw
+   }
+   table, tr , th {
+
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 10px;
+      width: 97vw;
+      height: 5vh;
+      text-align: center;
+   
+   }
+
+   main{
+         
+        text-align: center;
+   }
+  footer{
+   text-align: center;
+   border-radius: 10px;
+  }
+
